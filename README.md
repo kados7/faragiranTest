@@ -7,11 +7,11 @@
 ###  routes :
 store new lesson:  post Method
 
-        api/{course_id}/newLesson 
+    api/{course_id}/newLesson 
         
 edit price of courses:  post Method
 
-        api/{course_id}/editPrice 
+    api/{course_id}/editPrice 
 
 
 

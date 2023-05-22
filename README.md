@@ -5,9 +5,9 @@
     php artisan db:seed
 
 ###  routes :
-
-        store new lesson : /{course_id}/newLesson
-        edit price of courses : /{course_id}/editPrice
+        
+        store new lesson: /{course_id}/newLesson | post Method
+        edit price of courses: /{course_id}/editPrice | post Method
 
 
 

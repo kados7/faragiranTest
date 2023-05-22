@@ -6,8 +6,8 @@
 
 ###  routes :
         
-        store new lesson: /{course_id}/newLesson | post Method
-        edit price of courses: /{course_id}/editPrice | post Method
+        store new lesson:         api/{course_id}/newLesson | post Method
+        edit price of courses:    api/{course_id}/editPrice | post Method
 
 
 
